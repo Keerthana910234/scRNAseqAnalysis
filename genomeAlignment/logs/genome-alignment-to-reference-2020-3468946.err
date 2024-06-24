@@ -1,0 +1,77 @@
+
+Fatal INPUT FILE error, no exon lines in the GTF file: /home/mzo5929/Keerthana/subiaHanxiaoDataAnalysis/bulkRNAseqData/genomeCellRanger/refdata-gex-GRCh38-2020-A/refdata-gex-GRCh38-2020-A/genes
+Solution: check the formatting of the GTF file, it must contain some lines with exon in the 3rd column.
+          Make sure the GTF file is unzipped.
+          If exons are marked with a different word, use --sjdbGTFfeatureExon .
+
+Jun 20 18:27:50 ...... FATAL ERROR, exiting
+
+Fatal INPUT FILE error, no exon lines in the GTF file: /home/mzo5929/Keerthana/subiaHanxiaoDataAnalysis/bulkRNAseqData/genomeCellRanger/refdata-gex-GRCh38-2020-A/refdata-gex-GRCh38-2020-A/genes
+Solution: check the formatting of the GTF file, it must contain some lines with exon in the 3rd column.
+          Make sure the GTF file is unzipped.
+          If exons are marked with a different word, use --sjdbGTFfeatureExon .
+
+Jun 20 18:30:30 ...... FATAL ERROR, exiting
+
+Fatal INPUT FILE error, no exon lines in the GTF file: /home/mzo5929/Keerthana/subiaHanxiaoDataAnalysis/bulkRNAseqData/genomeCellRanger/refdata-gex-GRCh38-2020-A/refdata-gex-GRCh38-2020-A/genes
+Solution: check the formatting of the GTF file, it must contain some lines with exon in the 3rd column.
+          Make sure the GTF file is unzipped.
+          If exons are marked with a different word, use --sjdbGTFfeatureExon .
+
+Jun 20 18:34:29 ...... FATAL ERROR, exiting
+
+Fatal INPUT FILE error, no exon lines in the GTF file: /home/mzo5929/Keerthana/subiaHanxiaoDataAnalysis/bulkRNAseqData/genomeCellRanger/refdata-gex-GRCh38-2020-A/refdata-gex-GRCh38-2020-A/genes
+Solution: check the formatting of the GTF file, it must contain some lines with exon in the 3rd column.
+          Make sure the GTF file is unzipped.
+          If exons are marked with a different word, use --sjdbGTFfeatureExon .
+
+Jun 20 18:38:07 ...... FATAL ERROR, exiting
+
+Fatal INPUT FILE error, no exon lines in the GTF file: /home/mzo5929/Keerthana/subiaHanxiaoDataAnalysis/bulkRNAseqData/genomeCellRanger/refdata-gex-GRCh38-2020-A/refdata-gex-GRCh38-2020-A/genes
+Solution: check the formatting of the GTF file, it must contain some lines with exon in the 3rd column.
+          Make sure the GTF file is unzipped.
+          If exons are marked with a different word, use --sjdbGTFfeatureExon .
+
+Jun 20 18:41:48 ...... FATAL ERROR, exiting
+
+Fatal INPUT FILE error, no exon lines in the GTF file: /home/mzo5929/Keerthana/subiaHanxiaoDataAnalysis/bulkRNAseqData/genomeCellRanger/refdata-gex-GRCh38-2020-A/refdata-gex-GRCh38-2020-A/genes
+Solution: check the formatting of the GTF file, it must contain some lines with exon in the 3rd column.
+          Make sure the GTF file is unzipped.
+          If exons are marked with a different word, use --sjdbGTFfeatureExon .
+
+Jun 20 18:44:22 ...... FATAL ERROR, exiting
+
+Fatal INPUT FILE error, no exon lines in the GTF file: /home/mzo5929/Keerthana/subiaHanxiaoDataAnalysis/bulkRNAseqData/genomeCellRanger/refdata-gex-GRCh38-2020-A/refdata-gex-GRCh38-2020-A/genes
+Solution: check the formatting of the GTF file, it must contain some lines with exon in the 3rd column.
+          Make sure the GTF file is unzipped.
+          If exons are marked with a different word, use --sjdbGTFfeatureExon .
+
+Jun 20 18:47:51 ...... FATAL ERROR, exiting
+
+Fatal INPUT FILE error, no exon lines in the GTF file: /home/mzo5929/Keerthana/subiaHanxiaoDataAnalysis/bulkRNAseqData/genomeCellRanger/refdata-gex-GRCh38-2020-A/refdata-gex-GRCh38-2020-A/genes
+Solution: check the formatting of the GTF file, it must contain some lines with exon in the 3rd column.
+          Make sure the GTF file is unzipped.
+          If exons are marked with a different word, use --sjdbGTFfeatureExon .
+
+Jun 20 18:50:51 ...... FATAL ERROR, exiting
+
+Fatal INPUT FILE error, no exon lines in the GTF file: /home/mzo5929/Keerthana/subiaHanxiaoDataAnalysis/bulkRNAseqData/genomeCellRanger/refdata-gex-GRCh38-2020-A/refdata-gex-GRCh38-2020-A/genes
+Solution: check the formatting of the GTF file, it must contain some lines with exon in the 3rd column.
+          Make sure the GTF file is unzipped.
+          If exons are marked with a different word, use --sjdbGTFfeatureExon .
+
+Jun 20 18:54:17 ...... FATAL ERROR, exiting
+
+Fatal INPUT FILE error, no exon lines in the GTF file: /home/mzo5929/Keerthana/subiaHanxiaoDataAnalysis/bulkRNAseqData/genomeCellRanger/refdata-gex-GRCh38-2020-A/refdata-gex-GRCh38-2020-A/genes
+Solution: check the formatting of the GTF file, it must contain some lines with exon in the 3rd column.
+          Make sure the GTF file is unzipped.
+          If exons are marked with a different word, use --sjdbGTFfeatureExon .
+
+Jun 20 18:56:57 ...... FATAL ERROR, exiting
+
+Fatal INPUT FILE error, no exon lines in the GTF file: /home/mzo5929/Keerthana/subiaHanxiaoDataAnalysis/bulkRNAseqData/genomeCellRanger/refdata-gex-GRCh38-2020-A/refdata-gex-GRCh38-2020-A/genes
+Solution: check the formatting of the GTF file, it must contain some lines with exon in the 3rd column.
+          Make sure the GTF file is unzipped.
+          If exons are marked with a different word, use --sjdbGTFfeatureExon .
+
+Jun 20 19:01:09 ...... FATAL ERROR, exiting
